@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HTML</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
+</script>
+<script type="text/javascript">
+   (function(){
+      emailjs.init({
+        publicKey: "a_W0jfSVksFCzlsIm",
+      });
+   })();
+</script>
+  
+</head>
+<body>
+  <div class="container">
+    <aside id="menu">
+      <ul class="menu-list">
+      <div class="list-head">
+        <button onclick="remove()"><i class="fa-solid fa-multiply"></i></button>
+      </div>
+      <div class="list-body">
+    <li><a href="#">HOME</a></li>
+  <li><a href="#goto-about">ABOUT</a></li>
+    <li><a href="#goto-mission">MISSION  AND VISION</a></li>
+    <li><a href="#goto-products">PRODUCTS</a></li>
+        <li><a href="#goto-service">SERVICES</a></li>
+    <li><a href="#goto-contact">CONTACT</a></li>
+      </div>
+    <div class="list-bottom">
+      <span>....THANKS FOR PATRONIZING,LET CONNECT</span>
+    </div>
+    
+      </ul>
+    </aside>
+    
+    <!--alert-->
+    <div class="alert" id="alert">
+      <div class="pop">
+        
+        <div id="roll" class="ball">
+        <div class="roll"></div>
+        </div>
+        
+        <div id="success" class="success">
+      <img src="mark.png" alt="" />
+        </div>
+        
+        <div class="notes">
+          <span id="note">loading....</span>
+          
+        </div>
+        
+      </div>
+    </div>
+      <!--alert end-->
+    
+    <header>
+      <div class="logo">
+        <img src="logo.png" alt="logo" />
+      </div>
+      
+      <div class="menu">
+        <button onclick="show()"><i class="fa-solid fa-bars"></i></button>
+      </div>
+    </header>
+    
+    <section class="home">
+      <div class="home-img">
+       <img src="text.jpg" alt=".."> 
+      </div>
+      <div class="home-text">
+      <h2>WELCOME TO BIKI TECHNOLOGY WOOD WORK...</h2>
+      <p>lorem ipsum my name is abike aka biki technology, i deals with different types of woods , building materials.etc</p> 
+      <div class="home-btn">
+        <button><i class="fa-solid fa-phone"></i>contact us</button>
+        <button><i class="fa-solid fa-share-from-square"></i>View Products</button>
+      </div>
+      </div>
+
+    </section>
+    
+    <section class="founder">
+            <div class="home-words">
+          <img src="logo.png" alt="text.jpg">
+        <span><bold>HI, I'M ABIKE FOUNDER OF BIKI TECHNOLOGY. </bold>I started this brand out of a deep love for nature and a strong belief in the power of craftsmanship. Working with wood has always been more than a business to me — it’s a way to create beauty, strength, and connection through something timeless and natural
+Thank you for visiting Biki Technology — you’re always welcome here.</span>
+      </div>
+    </section>
+    
+    <main>
+<div id="goto-about" class="goto"></div>
+      <div class="about">
+        <h3><u>ABOUT BIKI TECHNOLOGY</u></h3>
+        <div class="about-words">
+          
+     <img src="logo.png" alt="text.jpg">
+        <span>At Biki Technology, we believe wood is more than just a material — it’s life, strength, and creativity woven into nature.
+Founded with a passion for craftsmanship and a vision to bring elegance into everyday building, Biki Technology has grown from a small idea into a trusted name in the world of quality timber and wood products.
+
+
+From sturdy hardwoods to finely polished planks, our woods are sourced with integrity and handled with precision. Whether you’re a carpenter shaping your next masterpiece, a builder crafting strong foundations, or a designer looking for that perfect texture ..Biki Technology is your reliable partner in every step of your creative journey.What makes us different is not just what we sell, but how we work.
+We blend traditional woodcraft skills with modern technology, ensuring that every cut, every finish, and every grain meets top-quality standards. Our team takes pride in sustainability — ensuring that the beauty of nature is preserved while helping you bring your ideas to life.Behind Biki Technology is a story of passion, hard work, and innovation.
+We started small  just one woman with a dream to change how people see and use wood  and have grown into a company that values honesty, excellence, and the satisfaction of every customer we serve.So whether you’re building furniture, remodeling a space, or working on something truly personal,Biki Technology is here to supply the heart of your project  wood that lasts, inspires, and tells a story of its own.Because at Biki Technology,we don’t just sell wood ,we deliver possibilities, shaped by nature and perfected by care.</span>
+        </div>
+        <div class="location">
+    <div class="talk"><span>...We're available at...</span></div>
+  <p><a href="#"><i class="fa-solid fa-location-dot"></i>12 mushin lagos</a></p>
+  <p><a href="#"><i class="fa-solid fa-phone"></i>07061321979</a></p>
+  <p><a href="#"><i class="fa-regular fa-envelope"></i>Direct mail to bikitechnology@gmail.com</a></p>
+  <p><a href="#"><i class="fa-brands fa-facebook"></i>facebook</a></p>
+  <p><a href="#"><i class="fa-brands fa-whatsapp"></i>whatsapp</a></p>
+  <p><a href="#"><i class="fa-brands fa-instagram"></i>Instagram</a></p>
+  <p><i class="fa-solid fa-handshake"></i>Working Days : Monday - Saturday </p>
+  <p><i class="fa-solid fa-clock"></i>Working Time : Opens(7:00)Am - Closes(7:00)Pm</p>
+        </location>
+      </div>
+      
+      <!--mission-->
+<div id="goto-mission" class="goto"></div>
+      <div class="mission">
+        <h3><u>OUR MISSION & VISION</u></h3>
+        <div class="mission-words">
+          <ul>
+            
+            <h4>MISSION:</h4>
+           <li> To make premium wood easily accessible, beautifully processed, and environmentally responsible. Every piece we sell carries our promise of durability, natural beauty, and care  because we know our customers deserve nothing less than the best. </li>
+           <li>To promote sustainability and integrity in every stage of our process — from sourcing responsibly harvested wood to providing transparent, customer-centered service. At Biki Technology, we are dedicated to building long-term trust through quality, accountability, and respect for both people and the environment.</li>
+           <li>To bridge craftsmanship and innovation by blending traditional woodworking skills with modern technology. We aim to deliver precision-cut, high-quality timber that meets the needs of today’s builders, creators, and designers while preserving the timeless beauty of natural wood.</li>
+           <h4>VISION:</h4>
+           <li>To become a leading name in the global wood industry — known for innovation, integrity, and excellence. We envision a world where premium, sustainable wood is accessible to everyone, inspiring creativity and strengthening the bond between craftsmanship and nature.</li>
+           <li>To grow as a trusted, eco-conscious brand that supports builders, designers, and dreamers worldwide. At Biki Technology, we aspire to set new standards in quality and sustainability, shaping a legacy that endures — just like the wood we provide.</li>
+           <li>To redefine how people see and use wood by combining technology, artistry, and environmental care. Our goal is to build a future where every creation made from our materials reflects both modern design and respect for the planet.</li>
+          </ul>
+          
+        </div>
+      </div>
+      
+      <!--products-->
+      <div id="goto-products" class="goto"></div>
+      <div class="products">
+       <h3><u>PRODUCTS</u></h3> 
+       <!--placement-->
+      <div class="product-place" id="products">
+        <!--product one-->
+      <!--  <div class="item">
+          <div class="item-image">
+         <img src="text.jpg" alt="" />
+          </div>
+          <div class="item-location">
+            <p>mushin Lagos</p>
+            <span>Available</span>
+          </div>
+        <div class="item-info">
+          <h4>Mahogany wood </h4>
+      <h3>Price: #200,00<small>negotiatable</small></h3>
+        </div>
+      <div class="item-description">
+        <span>lorem ipsum....</span>
+      </div>
+      
+      <div class="item-button">
+    <button>chat on Whatsapp</button>
+    <button>Give a call</button>
+      </div>
+        </div> -->
+    
+        <!--placement ends-->
+      </div>
+      <div class="more">
+        <button onclick="morepro()"><i style="font-size: 24px;" class="fa-solid fa-share-from-square"></i>VIEW MORE</button>
+      </div>
+         </div>
+         <!--service-->
+<div class="goto" id="goto-service"></div>
+      <div class="services">
+        <h3><u>OUR SERVICE</u></h3>
+      <div class="service-type" id="service">
+        
+        <!-- <div class="item">
+          <div class="item-video">
+         <video src="me.mp4" controls></video>
+          </div>
+          <div class="item-location">
+            <p>mushin Lagos</p>
+            <span>Available</span>
+          </div>
+    
+      <div class="item-description">
+        <span>lorem ipsum....</span>
+      </div>
+      
+      <div class="item-button">
+    <button>chat on Whatsapp</button>
+    <button>Give a call</button>
+      </div>
+        </div>-->
+        
+      </div>
+            <div class="more">
+        <button onclick="morevid()"><i style="font-size: 24px;" class="fa-solid fa-share-from-square"></i>VIEW MORE</button>
+      </div>
+      </div>
+         
+         <!--contact-->
+         <div class="goto" id="goto-contact"></div>
+     <div class="contact">
+       <h3><u>CONTACT US</u></h3>
+       <form onsubmit="go(event)">
+        <span>First name</span>
+       <input type="text" placeholder="John" id="firstname" required>
+        
+        <span>Last name</span>
+        <input type="text" placeholder="joe"  id="secondname" required>
+        
+        <span>Phone number</span>
+        <input type="text" placeholder="1234...09" id="number" required>
+        
+        <span>email</span>
+        <input type="email" placeholder="exam@gmail.com" id="email" required>
+        
+        <span>Subject</span>
+    <input type="text" placeholder="Message for Hiring" id="subject" required>
+        
+        <span>message</span>
+        <textarea  cols="30" rows="10" placeholder="write in your messages here " required id="message"></textarea>
+        
+ <button type="submit">SUBMIT</button>
+      </form>
+     </div>
+    </main>
+  
+  <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "name": "PLYWOOD",
+    "type": "Hardwood",
+    "priceRange": "Not fixed!!__Contact/Chat Us",
+    "image": "product1.jpg",
+    "description": "Rich red-brown tone, perfect for furniture and flooring.",
+    "location": "mushin, lagos",
+    "priceType": "negotiable",
+    "status" : "Available"
+  },
+  {
+    "id": 2,
+    "name": "White Oak",
+    "type": "Hardwood",
+    "priceRange": "Not fixed!!__Contact/Chat Us",
+    "image": "product2.jpg",
+    "description": "Durable and moisture-resistant, ideal for cabinets and tables.",
+      "location": "mushin, lagos",
+    "priceType": "negotiable",
+    "status" : "Available"
+  },
+  {
+    "id": 3,
+    "name": "BEAM(5 × 5)",
+    "type": "Softwood",
+    "priceRange": "Not fixed!!__Contact/Chat Us",
+    "image": "product3.jpg",
+    "description": "Lightweight and affordable, great for interior decorations.",
+        "location": "mushin, lagos",
+    "priceType": "negotiable",
+    "status" : "Available"
+  },
+  {
+    "id": 4,
+    "name": "BEAM(5 × 5)",
+    "type": "Hardwood",
+    "priceRange": "Not fixed!!__Contact/Chat Us",
+    "image": "product4.jpg",
+    "description": "Highly durable and resistant to water, great for outdoor furniture.",
+      "location": "mushin, lagos",
+    "priceType": "negotiable",
+    "status" : "Available"
+  },
+  {
+    "id": 5,
+    "name": "Teak Wood",
+    "type": "PALETTE",
+    "priceRange": "Not fixed!!__Contact/Chat Us",
+    "image": "product5.jpg",
+    "description": "Highly durable and resistant to water, great for outdoor furniture.",
+      "location": "mushin, lagos",
+    "priceType": "negotiable",
+    "status" : "Available"
+  },
+  {
+    "id": 6,
+    "name": "PALETTE",
+    "type": "Hardwood",
+    "priceRange": "Not fixed!!__Contact/Chat Us",
+    "image": "product6.jpg",
+    "description": "Highly durable and resistant to water, great for outdoor furniture.",
+      "location": "mushin, lagos",
+    "priceType": "negotiable",
+    "status" : "Available"
+  },
+  {
+    "id": 7,
+    "name": "PALETTE",
+    "type": "Hardwood",
+    "priceRange": "Not fixed!!__Contact/Chat Us",
+    "image": "product7.jpg",
+    "description": "Highly durable and resistant to water, great for outdoor furniture.",
+      "location": "mushin, lagos",
+    "priceType": "negotiable",
+    "status" : "Available"
+  },
+  {
+    "id": 8,
+    "name": "PALETTE",
+    "type": "Hardwood",
+    "priceRange": "Not fixed!!__Contact/Chat Us",
+    "image": "product8.jpg",
+    "description": "Highly durable and resistant to water, great for outdoor furniture.",
+      "location": "mushin, lagos",
+    "priceType": "negotiable",
+    "status" : "Available"
+  },
+  {
+    "id": 9,
+    "name": "MARINE BOARD",
+    "type": "Hardwood",
+    "priceRange": "Not fixed!!__Contact/Chat Us",
+    "image": "product9.jpg",
+    "description": "Highly durable and resistant to water, great for outdoor furniture.",
+      "location": "mushin, lagos",
+    "priceType": "negotiable",
+    "status" : "Available"
+  },
+  {
+    "id": 10,
+    "name": "Teak Wood",
+    "type": "Hardwood",
+    "priceRange": "Not fixed!!__Contact/Chat Us",
+    "image": "product10.jpg",
+    "description": "Highly durable and resistant to water, great for outdoor furniture.",
+      "location": "mushin, lagos",
+    "priceType": "negotiable",
+    "status" : "Available"
+  },
+  {
+    "id": 11,
+    "name": "Teak Wood",
+    "type": "Hardwood",
+    "priceRange": "Not fixed!!__Contact/Chat Us",
+    "image": "product11.jpg",
+    "description": "Highly durable and resistant to water, great for outdoor furniture.",
+      "location": "mushin, lagos",
+    "priceType": "negotiable",
+    "status" : "Available"
+  }
+]
