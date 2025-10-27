@@ -142,3 +142,8 @@ function morepro(){
 function morevid(){
   window.location.href = 'video.html'
 }
+
+const delay  = document.getElementById('delay');
+setTimeout(()=>{
+  delay.style.display = 'block';
+},1500) 

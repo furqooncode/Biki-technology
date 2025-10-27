@@ -560,3 +560,6 @@ form button{
   opacity: 1;
 }
 
+#delay{
+    display: none;
+}
