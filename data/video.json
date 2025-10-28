@@ -81,7 +81,7 @@
   },
     {
       "id": 11,
-    "name": "African Mahogany",
+    "name": "pallette",
     "video": "video11.mp4",
     "description": "Rich red-brown tone, perfect for furniture and flooring.",
     "location": "mushin, lagos",
@@ -89,7 +89,7 @@
   },
     {
       "id": 12,
-    "name": "African Mahogany",
+    "name": "INCH MAHOGANY",
     "video": "video12.mp4",
     "description": "Rich red-brown tone, perfect for furniture and flooring.",
     "location": "mushin, lagos",
@@ -97,7 +97,7 @@
   },
   {
       "id": 13,
-    "name": "African Mahogany",
+    "name": "BEAM",
     "video": "video13.mp4",
     "description": "Rich red-brown tone, perfect for furniture and flooring.",
     "location": "mushin, lagos",
@@ -105,7 +105,7 @@
   },
   {
       "id": 14,
-    "name": "African Mahogany",
+    "name": "MARINE WOOD",
     "video": "video14.mp4",
     "description": "Rich red-brown tone, perfect for furniture and flooring.",
     "location": "mushin, lagos",
@@ -113,7 +113,7 @@
   },
   {
       "id": 15,
-    "name": "African Mahogany",
+    "name": "MAHOGANY",
     "video": "video15.mp4",
     "description": "Rich red-brown tone, perfect for furniture and flooring.",
     "location": "mushin, lagos",
@@ -129,7 +129,7 @@
   },
   {
       "id": 17,
-    "name": "African Mahogany",
+    "name": "TRANSPORTATION(PELLETTE)",
     "image": "service2.jpg",
     "description": "Rich red-brown tone, perfect for furniture and flooring.",
     "location": "mushin, lagos",
@@ -137,7 +137,7 @@
   },
   {
       "id": 18,
-    "name": "African Mahogany",
+    "name": "TRANSPORTATION(PALLETTE)",
     "image": "service3.jpg",
     "description": "Rich red-brown tone, perfect for furniture and flooring.",
     "location": "mushin, lagos",
